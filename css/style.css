@@ -1,0 +1,29 @@
+.bor{
+	min-height: 50px;
+	background-color: red;
+	border-color: black dotted;
+}
+.header{
+	min-height: 50px;
+	background-color: yellow;
+	border-color: black solid;
+}
+
+
+.hi{
+	min-height: ;
+	background-color:brown;
+}
+.blog{
+	min-height: ;
+	background-color: gold;
+}
+.src{
+	min-height: 
+	background-color: red;
+}
+.footer{
+	min-height: 50px;
+	background-color:silver;
+	border-color: black solid;
+}
